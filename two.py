@@ -5,7 +5,6 @@
 #     main()
 
 name = input('What is your name? ')
-
 age = '3'
 
 # Use double quotes
