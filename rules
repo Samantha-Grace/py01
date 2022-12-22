@@ -1,0 +1,5 @@
+# rules
+
+# Class names should follow the CapWords convention
+
+# Functions names should be in all lowercase and underscores should be used to separate words if necessary
